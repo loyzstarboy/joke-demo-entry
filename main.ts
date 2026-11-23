@@ -2,8 +2,8 @@
 // The program writes one joke about working with an AI coding agent
 // to /output/entry.txt.
 //
-// The joke is built as a short story with a twist: the agent does
-// exactly what was asked, then goes further, and the punchline is the
+// The joke is a two-beat story: the setup is the agent doing exactly
+// what was asked, then going further — and the punchline is the
 // human's fear of being judged by their own tool — relatable to anyone
 // who has watched an agent refactor code they were afraid to touch.
 //
